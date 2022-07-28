@@ -79,13 +79,17 @@ tocopen = false
   [params.homeInfoParams]
   Title = "Welcome here!"
   Content = "Welcome to my blog"
+  imageUrl = "cat.jpg"
+  imageWidth = 120
+  imageHeight = 120
+  imageTitle = "my image"
 
   [[params.socialIcons]]
   name = "twitter"
   url = "https://twitter.com/"
 
   [[params.socialIcons]]
-  name = "stackoverflow"
+  name = "facebook"
   url = "https://stackoverflow.com"
 
   [[params.socialIcons]]
