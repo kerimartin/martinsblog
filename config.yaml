@@ -1,0 +1,8 @@
+menu:
+  main:
+    - identifier: ogp
+      name: OGP Panel
+      url: /ogp/
+      weight: 10
+
+      
