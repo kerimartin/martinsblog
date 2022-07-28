@@ -3,3 +3,8 @@ languageCode = 'en-us'
 title = 'My blog with paper'
 theme = "PaperMod"
 
+[[menu.main]]
+identifier = "ogp"
+name = "OGP Panel"
+url = "/ogp/"
+weight = 10
