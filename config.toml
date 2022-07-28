@@ -1,0 +1,4 @@
+baseURL = 'https://betyarsnetwork.ddns.net/'
+languageCode = 'en-us'
+title = 'My blog'
+theme = "ananke"
