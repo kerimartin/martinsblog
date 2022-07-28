@@ -61,12 +61,12 @@ tocopen = false
 
   [params.profileMode]
   enabled = true
-  title = "ExampleSite"
-  subtitle = "This is subtitle"
+  title = "Martin's page"
+  subtitle = "Welcome!"
   imageUrl = "cat.jpg"
-  imageWidth = 120
-  imageHeight = 120
-  imageTitle = "my image"
+  imageWidth = 180
+  imageHeight = 180
+  imageTitle = "kitten"
 
     [[params.profileMode.buttons]]
     name = "Posts"
@@ -79,10 +79,6 @@ tocopen = false
   [params.homeInfoParams]
   Title = "Welcome here!"
   Content = "Welcome to my blog"
-  imageUrl = "cat.jpg"
-  imageWidth = 120
-  imageHeight = 120
-  imageTitle = "my image"
 
   [[params.socialIcons]]
   name = "twitter"
