@@ -77,7 +77,7 @@ tocopen = false
     url = "tags"
 
   [params.homeInfoParams]
-  Title = "Hi there 👋"
+  Title = "Welcome here!"
   Content = "Welcome to my blog"
 
   [[params.socialIcons]]
