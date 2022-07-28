@@ -21,3 +21,7 @@
     --code-bg: #37383e;
     --border: #446;
 }
+
+.post-entry {
+    background: #eee;
+}
