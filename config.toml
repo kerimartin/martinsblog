@@ -78,8 +78,7 @@ tocopen = false
 
   [params.homeInfoParams]
   Title = "Welcome here!"
-  Content = "Welcome to my website! Please feel free to look around, but you might now find anything at the moment. This is a skeleton
-  for a future project, which is not yet in production."
+  Content = "Welcome to my website! Please feel free to look around, but you might now find anything at the moment. This is a skeleton for a future project, which is not yet in production."
 
   [[params.socialIcons]]
   name = "twitter"
