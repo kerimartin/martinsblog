@@ -1,11 +1,11 @@
 baseURL = 'https://betyarsnetwork.ddns.net/'
 languageCode = 'en-us'
-title = 'My blog with paper'
+title = 'Martins blog for later projects'
 theme = "PaperMod"
 
 [[menu.main]]
 identifier = "ogp"
-name = "webadmin"
+name = "Webadmin"
 url = "/ogp/"
 weight = 20
 
@@ -78,19 +78,20 @@ tocopen = false
 
   [params.homeInfoParams]
   Title = "Welcome here!"
-  Content = "Welcome to my blog"
+  Content = "Welcome to my website! Please feel free to look around, but you might now find anything at the moment. This is a skeleton
+  for a future project, which is not yet in production."
 
   [[params.socialIcons]]
   name = "twitter"
-  url = "https://twitter.com/"
+  url = ""
 
   [[params.socialIcons]]
-  name = "facebook"
-  url = "https://stackoverflow.com"
+  name = "linkedin"
+  url = ""
 
   [[params.socialIcons]]
   name = "github"
-  url = "https://github.com/"
+  url = "https://github.com/kerimartin"
 
 [params.analytics.google]
 SiteVerificationTag = "XYZabc"
