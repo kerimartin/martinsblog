@@ -30,6 +30,7 @@ cover:
     caption: "<text>" # display caption under cover
     relative: false # when using page bundles set this to true
     hidden: true # only hide on current single page
+weight: 1
 ---
 
 ## Lets start together now!
@@ -45,7 +46,7 @@ cover:
 
 ## Now let me show you a picture of a cat!
 
-![cat](/cat.jpg)
+![cat](/cat.jpg#center)
 
 - Nice to see a cat
 - Nice to have a cat
