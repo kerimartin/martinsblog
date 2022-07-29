@@ -1,7 +1,7 @@
 ---
 title: "Closing the portal"
 date: 2022-07-28
-# weight: 1
+weight: 1
 # aliases: ["/first"]
 tags: ["goodnight"]
 author: "Martin"
@@ -17,13 +17,13 @@ disableHLJS: true # to disable highlightjs
 disableShare: false
 disableHLJS: false
 hideSummary: false
-searchHidden: true
 ShowReadingTime: true
 ShowBreadCrumbs: false
 ShowPostNavLinks: false
 ShowWordCount: true
 ShowRssButtonInSectionTermList: false
 UseHugoToc: true
+ShowCodeCopyButtons: true
 cover:
     image: "" # image path/url
     alt: "<alt text>" # alt text
