@@ -21,12 +21,6 @@ name = "Blog"
 url = ""
 weight = 20
 
-[[menu.main]]
-identifier = "contact"
-name = "Contact"
-url = ""
-weight = 20
-
 enableRobotsTXT = true
 buildDrafts = false
 buildFuture = false
