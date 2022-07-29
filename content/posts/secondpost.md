@@ -34,8 +34,8 @@ cover:
 
 Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only. 
 
-{{ $asset := resources.Get "/cat.png" }}
-{{ $img := $asset.Fit "600x400" }}
+{{< $asset := resources.Get "/cat.png" >}}
+{{< $img := $asset.Fit "600x400" >}}
 <figure class="image is-3by2">
   <img alt="Yellow Duck" src="{{ $img.RelPermalink }}" />
 </figure>
