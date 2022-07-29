@@ -12,7 +12,7 @@ weight = 20
 [[menu.main]]
 identifier = "srch"
 name = "Search"
-url = "/search.md"
+url = "/search"
 weight = 20
 
 
