@@ -118,3 +118,6 @@ SiteVerificationTag = "XYZabc"
 
 [markup.highlight]
 noClasses = false
+
+[outputs]
+home = [ "HTML", "RSS", "JSON" ]
