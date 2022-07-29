@@ -1,5 +1,5 @@
   
-name: Azure Static Web Apps CI/CD
+name: Deploy Hugo site to vps
 
 on:
   push:
@@ -12,7 +12,7 @@ on:
   workflow_dispatch:
  
 jobs:
-  deploy:
+  build:
     runs-on: ubuntu-20.04
     concurrency:
       group: ${{ github.workflow }}-${{ github.ref }}
@@ -38,9 +38,9 @@ jobs:
           name: buildtifact
           path: public
 
-  deployvm:
+  rsync-to-vps:
     runs-on: ubuntu-latest
-    needs: deploy
+    needs: build
     steps:
       - name: Download artifact from build job
         uses: actions/download-artifact@v3
