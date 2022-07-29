@@ -11,5 +11,5 @@
 }
 */
 .dark {
-    --theme: linear-gradient(to right, RGB(0, 0, 0), RGB(255, 255, 255));
+    --theme: linear-gradient(to right, #171717fd, #000000fd);
 }
