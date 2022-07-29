@@ -60,7 +60,7 @@ tocopen = false
   iconHeight = 35
 
   [params.profileMode]
-  enabled = true
+  enabled = false
   title = "Martin's page"
   subtitle = "Welcome!"
   imageUrl = "cat.jpg"
