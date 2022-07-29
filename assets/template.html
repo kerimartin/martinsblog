@@ -1,5 +1,0 @@
-{{ $asset := resources.Get "/cat.jpg" }}
-{{ $img := $asset.Fit "600x400" }}
-<figure class="image is-3by2">
-  <img alt="Cat duck duck Duck" src="{{ $img.RelPermalink }}" />
-</figure>
