@@ -11,5 +11,5 @@
 }
 */
 .dark {
-    --theme: linear-gradient(90deg, rgba(6,5,14,1) 8%, rgba(23,23,47,1) 56%, rgba(60,76,128,1) 100%);
+    --theme: rgb(21, 21, 21);
 }
