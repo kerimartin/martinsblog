@@ -9,6 +9,12 @@ name = "Webadmin"
 url = "/ogp/"
 weight = 20
 
+[[menu.main]]
+identifier = "srch"
+name = "Search"
+url = "/content/search.md"
+weight = 20
+
 
 enableRobotsTXT = true
 buildDrafts = false
