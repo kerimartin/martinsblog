@@ -4,9 +4,9 @@ title = 'Martins blog for later projects'
 theme = "PaperMod"
 
 [[menu.main]]
-identifier = "ogp"
-name = "Webadmin"
-url = "/ogp/"
+identifier = "sb"
+name = "SourceBans"
+url = "/sb/"
 weight = 20
 
 [[menu.main]]

@@ -1,14 +1,14 @@
 ---
-title: "Opening the portal"
-date: 2022-07-28
-tags: ["testing"]
-author: "Martin"
+title: "Server addresses"
+date: 2022-08-1
+tags: ["ip, address"]
+author: "artificial"
 showToc: true
 TocOpen: false
 draft: false
 hidemeta: false
 comments: true
-description: "Desc Text."
+description: "IP"
 canonicalURL: "https://canonical.url/to/page"
 disableHLJS: true # to disable highlightjs
 disableShare: false
@@ -31,6 +31,9 @@ cover:
     hidden: true # only hide on current single page
 ---
 
+
+<!--
+
 ## Lets start together now!
 
 ```shell
@@ -50,4 +53,13 @@ cover:
 - Nice to have a cat
 
 ## Now lets end this story
-PageMaker including versions of Lorem Ipsum. PageMaker including versions of Lorem Ipsum.
+PageMaker including versions of Lorem Ipsum. PageMaker including versions of Lorem Ipsum. 
+
+-->
+
+
+## Please feel free to join!
+
+```FFA
+    connect 40.68.205.9:27030
+```
