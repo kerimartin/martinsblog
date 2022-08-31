@@ -1,6 +1,6 @@
-baseURL = 'https://betyarsnetwork.ddns.net/'
+baseURL = 'https://oceangaming.ddns.net/'
 languageCode = 'en-us'
-title = 'Martins blog for later projects'
+title = 'Ocean Gaming Beta blog'
 theme = "PaperMod"
 
 [[menu.main]]
