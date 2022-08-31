@@ -58,7 +58,7 @@ jobs:
           options: ''
           ssh_options: ''
           src: '/'
-          dest: 'root@23.88.104.245:/var/www/html'
+          dest: 'artificial@40.68.205.9:/var/www/html'
 
       - name: Display status from deploy
         run:
