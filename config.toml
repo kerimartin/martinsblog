@@ -66,13 +66,13 @@ tocopen = false
   iconHeight = 35
 
   [params.profileMode]
-  enabled = false
-  title = "Martin's page"
-  subtitle = "Welcome!"
-  imageUrl = "cat.jpg"
+  enabled = true
+  title = "OCEANGAMING"
+  subtitle = "servers"
+  imageUrl = "logo.png"
   imageWidth = 180
   imageHeight = 180
-  imageTitle = "kitten"
+  imageTitle = "ocean"
 
     [[params.profileMode.buttons]]
     name = "Posts"
@@ -83,8 +83,8 @@ tocopen = false
     url = "tags"
 
   [params.homeInfoParams]
-  Title = "Welcome to Ocean!"
-  Content = "The page is currently in beta status."
+  Title = "Welcome!"
+  Content = "Please check the servers tab if you wish to see informations related to the game servers."
 
 
 [params.analytics.google]
