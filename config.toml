@@ -5,14 +5,8 @@ theme = "PaperMod"
 
 [[menu.main]]
 identifier = "sb"
-name = "SourceBans"
+name = "Servers"
 url = "/sb/"
-weight = 20
-
-[[menu.main]]
-identifier = "srch"
-name = "Search"
-url = "/search"
 weight = 20
 
 
@@ -68,7 +62,7 @@ tocopen = false
   [params.profileMode]
   enabled = true
   title = "OCEANGAMING"
-  subtitle = "servers"
+  subtitle = "Welcome! Feel free to open the servers tab and get informations related to the game servers."
   imageUrl = "logo.png"
   imageWidth = 180
   imageHeight = 180
@@ -84,7 +78,7 @@ tocopen = false
 
   [params.homeInfoParams]
   Title = "Welcome!"
-  Content = "Please check the servers tab if you wish to see informations related to the game servers."
+  Content = ""
 
 
 [params.analytics.google]
