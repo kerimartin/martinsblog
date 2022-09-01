@@ -61,6 +61,12 @@ PageMaker including versions of Lorem Ipsum. PageMaker including versions of Lor
 
 ## Please feel free to join!
 
+FFA DM
 ```FFA
     connect 40.68.205.9:27030
+```
+
+SURF DM
+```SURF
+    connect 40.68.205.9:27034
 ```
