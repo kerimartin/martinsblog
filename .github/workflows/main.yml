@@ -56,9 +56,9 @@ jobs:
         with:
           flags: '-avzr --rsync-path="sudo rsync"'
           options: ''
-          ssh_options: ''
+          ssh_options: '-p ${{secrets.CONNECTION_PORT}}'
           src: '/'
-          dest: 'artificial@40.68.205.9:/var/www/html'
+          dest: '${{secrets.CONNECTION_LOC}}:/var/www/html'
 
       - name: Display status from deploy
         run:
