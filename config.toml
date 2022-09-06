@@ -64,8 +64,8 @@ tocopen = false
   title = "OCEANGAMING"
   subtitle = "Welcome! Feel free to open the servers tab and get informations related to the game servers."
   imageUrl = "logo.png"
-  imageWidth = 250
-  imageHeight = 250
+  imageWidth = 200
+  imageHeight = 200
   imageTitle = "ocean"
 
     [[params.profileMode.buttons]]
