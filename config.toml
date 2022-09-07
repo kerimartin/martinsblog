@@ -6,7 +6,7 @@ theme = "PaperMod"
 [[menu.main]]
 identifier = "sb"
 name = "Servers"
-url = "/sb/"
+url = "https://servers.oceangaming.hu/"
 weight = 20
 
 
