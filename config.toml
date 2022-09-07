@@ -10,6 +10,9 @@ url = "https://servers.oceangaming.hu/"
 weight = 20
 hrefTargetBlank = true
 
+[blackfriday]
+  hrefTargetBlank = true
+
 enableRobotsTXT = true
 buildDrafts = false
 buildFuture = false
