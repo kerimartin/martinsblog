@@ -1,6 +1,6 @@
 baseURL = 'https://oceangaming.hu/'
 languageCode = 'en-us'
-title = 'Ocean Gaming Beta blog'
+title = 'Ocean Gaming blog'
 theme = "PaperMod"
 
 [[menu.main]]
@@ -24,7 +24,7 @@ minifyOutput = true
 [params]
 env = "production"
 title = "Blog"
-description = "Blog for testing"
+description = "Ocean Gaming Blog"
 keywords = [ "Blog", "Portfolio", "PaperMod" ]
 author = "Me"
 images = [ "<link or path of image for opengraph, twitter-cards>" ]
@@ -64,8 +64,8 @@ tocopen = false
   title = "OCEANGAMING"
   subtitle = "Welcome! Feel free to open the servers tab and get informations related to the game servers."
   imageUrl = "logo.png"
-  imageWidth = 200
-  imageHeight = 200
+  imageWidth = 180
+  imageHeight = 180
   imageTitle = "ocean"
 
     [[params.profileMode.buttons]]
