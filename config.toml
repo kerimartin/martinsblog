@@ -1,7 +1,7 @@
 baseURL = 'https://oceangaming.hu/'
 languageCode = 'en-us'
 title = 'Ocean Gaming Beta blog'
-theme = "PaperModX"
+theme = "PaperMod"
 
 [[menu.main]]
 identifier = "sb"
