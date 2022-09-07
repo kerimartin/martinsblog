@@ -8,10 +8,7 @@ identifier = "sb"
 name = "Servers"
 url = "https://servers.oceangaming.hu/"
 weight = 20
-hrefTargetBlank = true
 
-[blackfriday]
-  hrefTargetBlank = true
 
 enableRobotsTXT = true
 buildDrafts = false
@@ -107,6 +104,11 @@ SiteVerificationTag = "XYZabc"
   minMatchCharLength = 0
   keys = [ "title", "permalink", "summary", "content" ]
 
+
+[markup]
+  defaultMarkdownHandler = 'blackFriday'
+  [markup.blackFriday]
+    hrefTargetBlank = true
 
 [markup.highlight]
 noClasses = false
