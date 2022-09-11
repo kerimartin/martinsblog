@@ -52,7 +52,7 @@ comments = true
 hidemeta = false
 hideSummary = false
 showtoc = false
-tocopen = true
+tocopen = false
 
   [params.assets]
   favicon = "logo.png"
