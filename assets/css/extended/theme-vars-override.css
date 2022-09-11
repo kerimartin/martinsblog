@@ -1,12 +1,10 @@
 :root {
     --theme: #fff;
-    --entry: #454557;
-    --primary: rgb(229, 194, 194);
+    /*--entry: #454557;*/
+    --primary: rgb(71, 71, 71);
     --secondary: rgb(69, 69, 77);
     --tertiary: rgb(137, 137, 137);
     --content: rgb(0, 0, 0);
-    --code-bg: #798ba0;
-    --border: #eee;
 }
 
 
