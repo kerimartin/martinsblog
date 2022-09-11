@@ -1,6 +1,6 @@
 baseURL = 'https://oceangaming.hu/'
 languageCode = 'en-us'
-title = 'Ocean Gaming Beta blog'
+title = 'OCEAN GAMING | Blog'
 theme = "PaperMod"
 
 [[menu.main]]
@@ -8,8 +8,13 @@ identifier = "sb"
 name = "Servers"
 url = "https://servers.oceangaming.hu/"
 weight = 20
-  [menu.main.params]
-  external = true
+
+[[menu.main]]
+identifier = "srch"
+name = "Search"
+url = "/search.md"
+url = "/search"
+weight = 20
 
 
 enableRobotsTXT = true

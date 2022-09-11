@@ -73,7 +73,12 @@ Note: **OCEAN GAMING** is built and maintained by a single person as a hobby, as
 While configuring the servers the main goal was to keep it as simple as possible, not to overload the players with mods and downloadable content that doesn't even add to to experience. Also
 it is very important to me to be able to play some old, classic maps together, soon the playable maps will be listed on the blog. The list is going to be updated continuously with new maps.
 
-## Please feel free to join!
+## IP Addresses - Please feel free to join!
+
+Teamspeak 3
+```TS
+    oceangaming.hu
+```
 
 FFA DM
 ```FFA
